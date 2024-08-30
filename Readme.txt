@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Projeto realizado para prática de versionamento de código.
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
